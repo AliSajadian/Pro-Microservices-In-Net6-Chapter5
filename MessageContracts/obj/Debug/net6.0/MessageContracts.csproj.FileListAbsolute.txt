@@ -1,0 +1,12 @@
+D:\projects\microservice-repo\Pro-Microservices-In-Net6-Samples\C5-Sample\MessageContracts\bin\Debug\net6.0\MessageContracts.deps.json
+D:\projects\microservice-repo\Pro-Microservices-In-Net6-Samples\C5-Sample\MessageContracts\bin\Debug\net6.0\MessageContracts.dll
+D:\projects\microservice-repo\Pro-Microservices-In-Net6-Samples\C5-Sample\MessageContracts\bin\Debug\net6.0\MessageContracts.pdb
+D:\projects\microservice-repo\Pro-Microservices-In-Net6-Samples\C5-Sample\MessageContracts\obj\Debug\net6.0\MessageContracts.csproj.AssemblyReference.cache
+D:\projects\microservice-repo\Pro-Microservices-In-Net6-Samples\C5-Sample\MessageContracts\obj\Debug\net6.0\MessageContracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\microservice-repo\Pro-Microservices-In-Net6-Samples\C5-Sample\MessageContracts\obj\Debug\net6.0\MessageContracts.AssemblyInfoInputs.cache
+D:\projects\microservice-repo\Pro-Microservices-In-Net6-Samples\C5-Sample\MessageContracts\obj\Debug\net6.0\MessageContracts.AssemblyInfo.cs
+D:\projects\microservice-repo\Pro-Microservices-In-Net6-Samples\C5-Sample\MessageContracts\obj\Debug\net6.0\MessageContracts.csproj.CoreCompileInputs.cache
+D:\projects\microservice-repo\Pro-Microservices-In-Net6-Samples\C5-Sample\MessageContracts\obj\Debug\net6.0\MessageContracts.dll
+D:\projects\microservice-repo\Pro-Microservices-In-Net6-Samples\C5-Sample\MessageContracts\obj\Debug\net6.0\refint\MessageContracts.dll
+D:\projects\microservice-repo\Pro-Microservices-In-Net6-Samples\C5-Sample\MessageContracts\obj\Debug\net6.0\MessageContracts.pdb
+D:\projects\microservice-repo\Pro-Microservices-In-Net6-Samples\C5-Sample\MessageContracts\obj\Debug\net6.0\ref\MessageContracts.dll
