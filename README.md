@@ -1,6 +1,6 @@
 # Pro-Microservices-In-Net6-Chapter5
 
 
-This is microservice sample from chapter 5 of apress pro microservices in .Net 6 
+This is microservice sample from chapter 5 of Apress 'Pro Microservices In .Net 6' 
 
 Microservice messaging using RabbitMQ
